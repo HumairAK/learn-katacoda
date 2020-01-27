@@ -1,4 +1,4 @@
-# OpenShift learning on Katacoda
+## OpenShift learning on Katacoda
 
 This is the content that appears on learn.openshift.com. If you have any questions raise an issue here.
 
